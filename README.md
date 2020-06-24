@@ -1,6 +1,7 @@
 # The Hypothesis Project
 
-> **Projects that we wish existed, but don't necessarily have enough time ourselves to work on**
+![Thesis Projects are](assets/hypothesis.png "Projects that we wish existed, but don't necessarily have enough time ourselves to work on")
+![A Thinker](assets/thinker.png "A Thinker")
 
 If you spend most of your time building things, you've probably appreciate that solving the **right** problem matters an awful lot.
 
