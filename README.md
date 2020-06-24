@@ -17,11 +17,9 @@ We encourage you to submit a list - ideally in the form of a link to markdown, g
 
 Thank you!
 
-## How This Works
+# MetaList of Hypothesis Lists
 
-## Help
-
-Here's [a nice guide to markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+[Paul Karayan](pk-hypothesis-list.md)
 
 # Inspiration
 
