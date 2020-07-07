@@ -29,15 +29,22 @@ see "Specialized Search & Knowledge Graphs" below
 
 #### Backend Component Libraries
 
+### Operational Development Environment
+
+### BDD and "Description as a Service"
+
+### Split Testing Backend Components
+
+Gloo
+Scientist
+
 ### Rapid Commercialization - The Next Ruby-on-Rails
 
 ### System / SLA Overviews That Work
 
 ### Specialized Search / Knowledge Graphs
 
-### BDD and "Description as a Service"
-
-### Split Testing Backend Components
+### Find Python packages that interest me aka Irregularium
 
 ### Prototyping Tools that Don't Suck
 
